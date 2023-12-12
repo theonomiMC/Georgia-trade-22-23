@@ -1,4 +1,4 @@
-# Georgia Trade Dynamics 2023: Export-Import Analysis
+# Georgia Trade Dynamics 2022-2023: Export-Import Analysis
 
 This project provides insights into the country's exports and imports from January to November 2023 and 2022, offering a detailed examination of trade trends.
 It aims to identify top trading partners and analyze their share in the country's market.
